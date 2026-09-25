@@ -1,0 +1,26 @@
+{
+		"datos_personales":{
+		"nombre":"Pedro Luis",
+	"apellidos":"Rodriguez Guzman",
+	"email":{
+	"Estudiante":"pedro.rodriguez@alu.ceacfp.es",
+	"personal":"pedroluisrguzman@gmail.com"
+	}
+},
+"experiencia_profesional":"Durante mis formaciones en empresa hice una automatizacion de IA a un whatsapp de empresa",
+"formacion":{
+	"centro":"CEAC FP Valencia",
+	"Titulacion":"Grado Medio de Sistemas Microinformaticos y Redes",
+	"Inicio":"Septiembre, 2024",
+	"Fin":"Junio, 2026"
+	},
+"idiomas":{
+	    "Idioma":"Español",
+	    "Nivel":"Nativo"
+	},
+	
+    	"idioma":"inglés",
+      "nivel":"fluido"
+   ,
+"hobbies":"Me Gusta mucho la musica, toco alrededor de 3 instrumentos, me gustan los videojuegos, los deportes y por obvios motivos la informatica, sobretodo el desarrollo de la IA, me gusta ver como avanza y poder aprender todo lo posible sopbre ella para usarla como una herramienta en mi futuro laboral"
+}
